@@ -1,3 +1,3 @@
 # Hello-World
-Git hub tutorial
-Git hub is another tool that I will use to add to my skill set and move my career forward.
+This is text for the Git hub tutorial
+Git hub is another tool that I will use and add to my skill set to move my career forward.
